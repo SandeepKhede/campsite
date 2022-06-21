@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/campsite/static/css/main.7962b972.chunk.css",
+    "main.js": "/campsite/static/js/main.32f0e85d.chunk.js",
+    "main.js.map": "/campsite/static/js/main.32f0e85d.chunk.js.map",
+    "runtime-main.js": "/campsite/static/js/runtime-main.aa388dd2.js",
+    "runtime-main.js.map": "/campsite/static/js/runtime-main.aa388dd2.js.map",
+    "static/css/2.c0897e43.chunk.css": "/campsite/static/css/2.c0897e43.chunk.css",
+    "static/js/2.6a6bc510.chunk.js": "/campsite/static/js/2.6a6bc510.chunk.js",
+    "static/js/2.6a6bc510.chunk.js.map": "/campsite/static/js/2.6a6bc510.chunk.js.map",
+    "index.html": "/campsite/index.html",
+    "static/css/2.c0897e43.chunk.css.map": "/campsite/static/css/2.c0897e43.chunk.css.map",
+    "static/css/main.7962b972.chunk.css.map": "/campsite/static/css/main.7962b972.chunk.css.map",
+    "static/js/2.6a6bc510.chunk.js.LICENSE.txt": "/campsite/static/js/2.6a6bc510.chunk.js.LICENSE.txt",
+    "static/media/bonfire.f4cce510.png": "/campsite/static/media/bonfire.f4cce510.png",
+    "static/media/camp.89833ed5.jpg": "/campsite/static/media/camp.89833ed5.jpg",
+    "static/media/camping.ec612388.png": "/campsite/static/media/camping.ec612388.png",
+    "static/media/friend.ad0ec911.png": "/campsite/static/media/friend.ad0ec911.png",
+    "static/media/sunrise.fbdf1634.png": "/campsite/static/media/sunrise.fbdf1634.png",
+    "static/media/sunset.0291e137.png": "/campsite/static/media/sunset.0291e137.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa388dd2.js",
+    "static/css/2.c0897e43.chunk.css",
+    "static/js/2.6a6bc510.chunk.js",
+    "static/css/main.7962b972.chunk.css",
+    "static/js/main.32f0e85d.chunk.js"
+  ]
+}
