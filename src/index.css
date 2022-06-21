@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Sora', sans-serif;
+    
+    
+}
+#header{
+    width: 100%;
+    height: 80vh;
+    margin-top: 70px;
+}
+
+#header .title{
+    margin: 0 0 10px 0;
+    font-size: 48px;
+    font-weight: 700;
+    color: black;
+}
+#header .brand-name{
+    color: #3498db;
+}
+#header .para{
+    color: #484848;
+    font-size: 24px;
+}
+
+#header .btn{
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 10px 30px;
+    border-radius: 50px;
+    transition: 0.5s;
+    color: #3498db;
+    border: 2px solid #3498db;
+    
+}
+
+.header-img{
+    clip-path: polygon(100% 0%, 100% 51%, 100% 100%, 25% 100%, 0% 50%, 25% 0%);
+    margin-left: auto; 
+    margin-right: 0;
+   
+
+}
+
+
+.form{
+    margin-top: 20px;
+}
+input{
+    width: 50%;
+    height: 50px;
+    border: none;
+    border-bottom: 1px solid black;
+    margin: 10px 0px;
+    font-size: 14px;
+    padding-left: 10px;
+}
+textarea{
+    width: 100%;
+    margin: 10px 0px;
+    font-size: 14px;
+    padding-left: 10px;
+}
+/* 
+.image{
+    
+    width: 90%;
+    max-width: 100%;  
+    min-height: 600px;
+    object-fit: cover;
+    display: flex;
+    justify-content: space-between;
+} */
+
+.head{
+    text-align: center;
+   
+}
+.logo{
+    color: #3498db;
+}
+.img-c{
+    clip-path: circle(50% at 50% 50%);
+
+}
